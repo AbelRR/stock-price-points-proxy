@@ -7,6 +7,9 @@
   - https://github.com/RobinHackers/stock-price-points
   <img src="https://imgur.com/XDnhlqb">
 
+![Figure 1-1](https://imgur.com/XDnhlqb "Figure 1-1")
+
+
 ## Table of Contents
 
 1. [Usage](#Usage)
