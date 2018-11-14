@@ -4,6 +4,9 @@
 
 # Images of Project: 
   - https://imgur.com/a/GyCF61n
+  
+
+  ![Market Open](https://i.imgur.com/V2hvrPI.png)
 
 ## Related Projects
 
