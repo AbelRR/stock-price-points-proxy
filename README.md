@@ -6,6 +6,9 @@
     
   - https://github.com/RobinHackers/stock-price-points
 
+  ![Market Open](https://i.imgur.com/ygvhjKc.png)
+
+  ![Market Closed](https://i.imgur.com/UcrJoIm.png)
 
 ## Table of Contents
 
