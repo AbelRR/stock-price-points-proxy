@@ -1,6 +1,6 @@
-# Project Name
+# VisualFin
 
-> Hackin Robinhood by Robin Hackers
+> VisualFin by Robin Hackers
 
 ## Related Projects
 
