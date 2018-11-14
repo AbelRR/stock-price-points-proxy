@@ -2,7 +2,8 @@
 
 > VisualFin by Robin Hackers
 
-## CLICK LINK BELOW TO BE REDIRECTED TO Abel Regalado's Stock Price Points component
+## CLICK LINK BELOW TO BE REDIRECTED TO 
+## Abel Regalado's Stock Price Points component
     
   - https://github.com/RobinHackers/stock-price-points
 
