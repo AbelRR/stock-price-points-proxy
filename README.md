@@ -5,7 +5,7 @@
 ## CLICK LINK BELOW TO BE REDIRECTED TO Abel Regalado's Stock Price Points component
     
   - https://github.com/RobinHackers/stock-price-points
-  <img src="https://imgur.com/XDnhlqb" alt="alt text" width="100%" height="100%">
+  <img src="https://imgur.com/XDnhlqb">
 
 ## Table of Contents
 
