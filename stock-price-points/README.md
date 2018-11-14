@@ -8,6 +8,8 @@
 
   ![Market Open](https://i.imgur.com/V2hvrPI.png)
 
+  ![Market Closed](https://i.imgur.com/zACCdCd.png)
+
 ## Related Projects
 
   - https://github.com/RobinHackers/stock_fluctuation
