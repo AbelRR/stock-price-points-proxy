@@ -25,7 +25,12 @@
 
 ## Usage
 
-> Some usage instructions
+```
+cd stock-price-points/
+seed
+npm build
+npm start
+```
 
 ## Requirements
 
