@@ -4,7 +4,7 @@
 
 ## Click Link Below to Redirect to Abel Regalado's Stock Price Points component
     
-  - https://github.com/RobinHackers/stock-price-points
+  - https://github.com/BearBullTech/stock-price-points-proxy/tree/master/stock-price-points
 
   ![Market Open](https://i.imgur.com/ygvhjKc.png)
 
